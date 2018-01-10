@@ -1,0 +1,3 @@
+rootProject.name = 'kotlin-wingding-mp'
+
+include 'kotlin-wingding-mp-jvm', 'kotlin-wingding-mp-js'
